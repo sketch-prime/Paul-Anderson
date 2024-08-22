@@ -14,12 +14,12 @@ This is my coding buddy Beans:
 
 # Projects
 ## **Satan-Bot**
-### Description: A discord bot aimed to put the server's most used bots into one, with added functionality
-### *Link:* [Satan-Bot-2.0](https://github.com/sketch-prime/SATAN-BOT-2.0)
+Description: A discord bot aimed to put the server's most used bots into one, with added functionality </br>
+*Link:* [Satan-Bot-2.0](https://github.com/sketch-prime/SATAN-BOT-2.0)
 
 ## **ITSC-3155 Final Project**
-### Description: A simple web forum designed to assist college students in finding jobs and internships
-### *Link:* [3155-final](https://github.com/sketch-prime/3155-group-final-project)
+Description: A simple web forum designed to assist college students in finding jobs and internships </br>
+*Link:* [3155-final](https://github.com/sketch-prime/3155-group-final-project)
 
 # Goals and Objectives
 ### - **Short-term Goals:** Improve my front-end development skills using HTML, CSS, and javascript
