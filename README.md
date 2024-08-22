@@ -12,19 +12,16 @@ This is my coding buddy Beans:
   <p></p>He is most likely attempting to shut off my computer or sitting on my keyboard.</p>
 </div>
 
-## Projects
-### Satan-Bot
-### **Description:** A discord bot aimed to put the server's most used bots into one, with added functionality
-### **Role:** Sole developer
-### **Link:** [Satan-Bot-2.0](https://github.com/sketch-prime/SATAN-BOT-2.0)
+# Projects
+## **Satan-Bot**
+### Description: A discord bot aimed to put the server's most used bots into one, with added functionality
+### *Link:* [Satan-Bot-2.0](https://github.com/sketch-prime/SATAN-BOT-2.0)
 
-## Projects
-### ITSC-3155 Final Project
-### **Description:** A simple web forum designed to assist college students in finding jobs and internships
-### **Role:** Backend developer, UI design consultant
-### **Link:** [3155-final](https://github.com/sketch-prime/3155-group-final-project)
+## **ITSC-3155 Final Project**
+### Description: A simple web forum designed to assist college students in finding jobs and internships
+### *Link:* [3155-final](https://github.com/sketch-prime/3155-group-final-project)
 
-## Goals and Objectives
+# Goals and Objectives
 ### - **Short-term Goals:** Improve my front-end development skills using HTML, CSS, and javascript
 ### - **Long-term Goals:** Round out experience using more languages, EX. PHP, swift
 ### - **Skills to Acquire:** Advanced languages and concepts, EX. Ruby, Perl, REACT, runtime evaluation, error handling, and efficient design practices
