@@ -23,5 +23,5 @@ Description: A simple web forum designed to assist college students in finding j
 
 # Goals and Objectives
 ### - **Short-term Goals:** Improve my front-end development skills using HTML, CSS, and javascript
-### - **Long-term Goals:** Round out experience using more languages, EX. PHP, swift
+### - **Long-term Goals:** Round out experience using more languages, EX. PHP, swift, REACT
 ### - **Skills to Acquire:** Advanced languages and concepts, EX. Ruby, Perl, REACT, runtime evaluation, error handling, and efficient design practices
